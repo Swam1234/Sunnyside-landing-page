@@ -7172,7 +7172,7 @@ progress {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center bottom;
-  height: 95vh;
+  height: 94vh;
 }
 
 .font-fraunces {
@@ -7321,6 +7321,7 @@ progress {
   top: 62%;
   z-index: -1;
   transition: 0.3s ease;
+  background-color: rgb(232, 232, 148);
 }
 
 .hover-line-red {
@@ -7331,6 +7332,7 @@ progress {
   top: 62%;
   z-index: -1;
   transition: 0.3s ease;
+  background-color: rgb(254, 173, 173);
 }
 
 .GP-card {
